@@ -13,7 +13,7 @@ public class UserResponse {
         return content;
     }
 
-    public void setContent (String content) {
+    public void setContent(String content) {
         this.content = content;
     }
 }
