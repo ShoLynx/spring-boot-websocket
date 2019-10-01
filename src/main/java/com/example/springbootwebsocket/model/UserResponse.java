@@ -9,11 +9,7 @@ public class UserResponse {
         this.content = content;
     }
 
-    public String getContent(String content) {
-        return content;
-    }
-
-    public void setContent(String content) {
-        this.content = content;
+    public String getContent() {
+        return this.content;
     }
 }
